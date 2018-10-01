@@ -24,6 +24,8 @@ uva library workshop on introduction to git and github
 3. Know how to get help
 
 ## Getting Git
+* to play along you will need a github account --> https://github.com/
+
 * if on mac/linux you probably already have git
   * go to the terminal and type git
   * if it says: *-bash: git: No such file or directory* (or something similar)
@@ -33,20 +35,23 @@ uva library workshop on introduction to git and github
   * goto https://git-scm.com/ and download
 
 ## Outline
+0. Some background
 1. Work through the GitHub browser interface
 2. Quick show of terminal interface
 3. Tips on getting help
 
-### A quick note
-Today we are working on python. However there is some knowledge of programming that is required. Don't worry if you don't know it, please ask questions. I will do my best to answer them. And I will also do my best to indicate when something is a python specific detail and when it is a programming in general item.
+### Cartoons
+* http://phdcomics.com/comics.php?f=1531
+* https://swcarpentry.github.io/2014-06-24-wise-penn/lessons/nelle-git/git.html
+* https://xkcd.com/1597/
 
-## A brief history
-* Designed by [Guido van Rossum](https://www.google.com/search?q=google+image+search+guido+van+rossum&safe=off&rlz=1C5CHFA_enUS690US690&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjE_eGK6KHdAhXrRd8KHUzBDHsQ_AUICigB&biw=1440&bih=697)
-* version 1.0 1994
-* version 2.0 2000
-* version 3.0 2008 (not widely adopted until a few years ago)
-* [logo](https://www.google.com/search?q=python+logo&safe=off&rlz=1C5CHFA_enUS690US690&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi9xN-J8aHdAhVBMt8KHT-WDEEQ_AUICigB&biw=1440&bih=697)
-* [anaconda logo](https://www.google.com/search?q=anaconda+logo&safe=off&rlz=1C5CHFA_enUS690US690&source=lnms&tbm=isch&sa=X&ved=0ahUKEwin88Gf8aHdAhUhiOAKHeGLBHYQ_AUICigB&biw=1440&bih=697)
+## A brief history (according to wiki)
+* Designed by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
+* initial release: 7 April 2005
+* official repo: https://github.com/git/git
+* most recent release (as of writing) 2.19.0 / 10 September 2018; 19 days ago
+
+
 
 # Let's Get to It (hopefully everyone is done installing)
 * open spyder [it looks like this](spyder.png)
