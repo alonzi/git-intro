@@ -27,23 +27,15 @@ uva library workshop on introduction to git and github
 * if on mac/linux you probably already have git
   * go to the terminal and type git
   * if it says: *-bash: git: No such file or directory*
-* goto https://git-scm.com/ and download
-
-* terminology time
-  * programming langugage vs software distribution
-  * python2 vs python3
+  * goto https://git-scm.com/ and download
   
-# Goals for Today
-1. Get python running
-2. Get comfortable with python
-3. Learn how to look up help
+* if on windows you probably need to get git
+  * goto https://git-scm.com/ and download
 
 ## Outline
-1. Strings and Functions
-2. Data types
-3. Loops
-4. Logic
-5. How to import (aka the most important part)
+1. Work through the GitHub browser interface
+2. Quick show of terminal interface
+3. Tips on getting help
 
 ### A quick note
 Today we are working on python. However there is some knowledge of programming that is required. Don't worry if you don't know it, please ask questions. I will do my best to answer them. And I will also do my best to indicate when something is a python specific detail and when it is a programming in general item.
