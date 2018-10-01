@@ -26,7 +26,7 @@ uva library workshop on introduction to git and github
 ## Getting Git
 * if on mac/linux you probably already have git
   * go to the terminal and type git
-  * if it says: *-bash: git: No such file or directory*
+  * if it says: *-bash: git: No such file or directory* (or something similar)
   * goto https://git-scm.com/ and download
   
 * if on windows you probably need to get git
