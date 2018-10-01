@@ -20,7 +20,7 @@ uva library workshop on introduction to git and github
 ## Second, our goals
 
 1. Everyone has git on their computer in working order
-2. Become comfortable with git/github
+2. Become comfortable with git/github workflows
 3. Know how to get help
 
 ## Getting Git
@@ -45,11 +45,41 @@ uva library workshop on introduction to git and github
 * https://swcarpentry.github.io/2014-06-24-wise-penn/lessons/nelle-git/git.html
 * https://xkcd.com/1597/
 
-## A brief history (according to wiki)
+### A brief history (according to wiki)
 * Designed by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
 * initial release: 7 April 2005
 * official repo: https://github.com/git/git
 * most recent release (as of writing) 2.19.0 / 10 September 2018; 19 days ago
+
+### Step 1 - inspect this repo
+* goto: https://github.com/alonzi/git-intro
+* we are in the github interface, nb:
+  1. upper left corner: notebook icon next to alonzi/git-intro  (a repo)
+  2. big green button on the right hand side (down a little) says "Clone or Download" (how to get the files)
+  3. list of files (how to browse the files)
+  4. readme.md is shown in all its glory (github automatically shows the readme file, very handy)
+  
+### Step 2 - create a repo
+* hard to find, upper right hand corner '+' button, pull down: select 'new repository'
+  1. name
+  2. description
+  3. public v private
+  4. initialize with readme (alway say yes)
+  5. license
+  
+### Step 3 - edit a file
+* click on readme.md in the list and then click the pencil
+  1. now type in the editor
+  2. when done click green button at bottom 'commit changes'
+    * commits should be done early and often
+    * no change is too small to commit
+    * leave a message that is maybe *5* words long and includes a verb
+    
+### Step 4 - 
+
+
+
+
 
 
 
