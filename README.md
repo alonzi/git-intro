@@ -17,6 +17,8 @@ uva library workshop on introduction to git and github
 * repository - a record of all changes to specified files (aka repo)
 * fork - a repo and a pointer to the repo it deviates from
 
+* [visual](https://github.com/UVA-DSI/2018-bootcamp/blob/master/intro-general-tools/github_terms.png)
+
 ## Second, our goals
 
 1. Everyone has git on their computer in working order
@@ -75,111 +77,48 @@ uva library workshop on introduction to git and github
     * no change is too small to commit
     * leave a message that is maybe *5* words long and includes a verb
     
-### Step 4 - 
-
-
-
-
-
-
-
-# Let's Get to It (hopefully everyone is done installing)
-* open spyder [it looks like this](spyder.png)
-  * text editor
-  * variable explorer
-  * console
-  * control icons
+### Step 4 - collaboration
+* Direct Collaboration - collaborator
+  * add a collaborator to your repo
+  * setting tab (top of repo page) --> collaborators menu (LHS of settings page)
+  * search users to add by username/email
+  * **This gives the collaborator power to commit directly**
+* Indirect Collaboration - pull requests
+  * click fork button (upper right of repo page)
+  * look at upper left corner and note the new symbol and pointer
+  * **This is a completely functional independent repo**
+  * You may reccomend changes to the remote by initiating a pull request
+    * click the pull request button
+    * this is a little tricky so let's walk slowly
   
-## Strings
-* A string is a 'string' of characters
-  * 'apple'  # letters
-  * 'blue42' # letters and numbers
-  * 'i am the very model of a modern major general' # spaces are fine
-  * '7 hills' # it can even start with a number
-  
-## Comments
-We also introduce comments here, the computer will ignore everything after the '#' symbol. There are other forms but we'll see them later on.
-
-## Variables
-You can "save" things as variables. For those curious as to what's going on under the hood...in python a variable is actually just a pointer to the location in memory where the object lives.
-* a = 'apple'
-  * a is the variable
-  * = is the assignment operator
-  * 'apple' (a string) is the object assigned to a
-  
-* *Important Note*: the assignment operator is not like an equals sign
-  * a=5
-  * a=7
-    * totally works, a was just reassigned to point to 7
-    
-## Functions
-* print(a) # this function will show us what a points to
-* we know that print is a function because there is no space between print and the "("
-* format of a function: name(arguments)
-* we say we "call" a function
-* *this is super important* in python the way to spot a function is no space before a "(" and a letter or number
-  * [python built-in functions](https://docs.python.org/3/library/functions.html)
-  * print(...)
-  * type(...)
-  * pow(...)
-  * in an equation you may see 5*(2+3), you won't seet 5(2+3) (try it and see what happens)
-  
-## Indexing
-* for objects with an order you can access individual elements
-* [indexing](indexing.png)
-* you can also pull out slices
-  * syntax [X:Y]
-    * starting at X
-    * upto but not including Y
-
-## Lists
-* represented like functions but with [...]
-* there is an order to the items
-* the items can be of any type
-
-## Dictionary
-* represented like lits but with {...}
-* there is no order to items
-* items contain two pieces: a key and a value represented key:value and the key must be a string
-
-## loops - used when you want to repeat code
-* for loop
-  * for X in Y: << code >>
-    * X is a new variable created on the spot
-    * Y is some preexisting iterable
-    * << code >> is a block of code you want to repeat
-    * eg: for x in range(10): print(x)
-
-* while loop
-  * while Z: << code >>
-    * Z is a boolean
-    * << code >> is a block of code you want to repeat
-    * eg: while i<10: print i; i+=1
-
-## if statements
-* example
-  * if X: << code A >>
-  * else: << code B >>
-    * X is a boolean
-    * << code A >> is some code
-    * << code B >> is some code, could be the same
-    
 
 
-# Import
-* *This is the most important topic*
-* The import command let's you bring in code from another file and use it
-* one example: random number generation
-  * import numpy
-  * numpy.random.randn()
-* There are two steps [info on conda](https://conda.io/docs/user-guide/tasks/manage-pkgs.html) [info on pip](https://pip.pypa.io/en/stable/user_guide/)
-  1. install the module, eg: shell]$ conda install numpy
-  2. python>>> import numpy
 
-# Scripting vs Programming
-It's a matter of modularity. Programs are designed to be modular and work with other programs. Scripts are designed to be single use.
+* Collaboration
+  * Direct collaboration - adding collaborators
+  * Distributed Collaboration
+    * Forking a repo
+    * Pull requests
+* Local vs Cloud
+  * downloading your code
+  * syncing your repositories [sync to upstream](https://help.github.com/articles/syncing-a-fork/)
+  * Command Line Interface - [cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+* Additional Items
+  * Organizations and Capstone Repositories
+  * [Webpages](https://pages.github.com/)
+  * Branches
 
 
+## Computer Trouble Shooting Time
+
+## Helpful Links
+* [UVA Physics Computer Facilites Reference](http://galileo.phys.virginia.edu/compfac/courses/)
+* [Data Science Fundamental References](https://github.com/alonzi/fundamentals)
+* [Git Homepage](https://git-scm.com/)
+* [GitHub Homepage](https://github.com/)
+* [Bash Cheat Sheet](https://devhints.io/bash)
+* [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
+* [2017 Git Intro](https://github.com/UVA-DSI/2017-bootcamp-git-intro)
 
 # Ways to Practice
 1. Write some code
@@ -194,3 +133,8 @@ It's a matter of modularity. Programs are designed to be modular and work with o
 * Expert
   * Play blackjack
   * Play roulette
+
+
+
+##### This repo contains materials from [this repo](https://github.com/UVA-DSI/2018-bootcamp/edit/master/intro-general-tools/Readme.md)
+
