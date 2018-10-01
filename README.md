@@ -8,10 +8,21 @@ uva library workshop on introduction to git and github
 ## Welcome to the UVA Library
 * [Research Data Services](https://data.library.virginia.edu/)
 * [Workshop Series](https://data.library.virginia.edu/training/)
-  * Introduction to R (Jenn Huck)	Thursday, 9/6	10:00 – 11:30	Brown 133
-  * Introduction to Python (Erich Purpur)	Wednesday, 9/26	10:00 – 11:30	Brown 133
-  * Introduction to Git/GitHub (Pete Alonzi)	Tuesday, 10/2	14:00 – 16:00	Brown 133
-  
+  * Data Storage Best Practices (Bill Corey)	Tuesday, 11/6	14:00 – 15:30	Brown 133
+
+## First, some terms
+
+* git - version control software
+* github - a for profit company owned by microsoft
+* repository - a record of all changes to all specified files (aka repo)
+* fork - a repo and a pointer to the repo it deviates from
+
+## Second, our goals
+
+1. Everyone has git on their computer in working order
+2. Become comfortable with git/github
+3. Know how to get help
+
 ## Getting Python (this will take some time)
 * [Windows](https://www.anaconda.com/download/#windows)
 * [Mac](https://www.anaconda.com/download/#macos)
