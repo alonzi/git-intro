@@ -90,35 +90,21 @@ uva library workshop on introduction to git and github
   * You may reccomend changes to the remote by initiating a pull request
     * click the pull request button
     * this is a little tricky so let's walk slowly
-  
+  * Demo, someone please pull request me and I'll show on screen what it looks like  
 
 
-
-* Collaboration
-  * Direct collaboration - adding collaborators
-  * Distributed Collaboration
-    * Forking a repo
-    * Pull requests
-* Local vs Cloud
+### Step 5 - local v cloud
   * downloading your code
   * syncing your repositories [sync to upstream](https://help.github.com/articles/syncing-a-fork/)
   * Command Line Interface - [cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 * Additional Items
-  * Organizations and Capstone Repositories
+  * Organizations
   * [Webpages](https://pages.github.com/)
   * Branches
 
 
-## Computer Trouble Shooting Time
 
-## Helpful Links
-* [UVA Physics Computer Facilites Reference](http://galileo.phys.virginia.edu/compfac/courses/)
-* [Data Science Fundamental References](https://github.com/alonzi/fundamentals)
-* [Git Homepage](https://git-scm.com/)
-* [GitHub Homepage](https://github.com/)
-* [Bash Cheat Sheet](https://devhints.io/bash)
-* [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
-* [2017 Git Intro](https://github.com/UVA-DSI/2017-bootcamp-git-intro)
+## Helpful Links - https://github.com/alonzi/git-intro/blob/master/helpful_links.md
 
 # Ways to Practice
 1. Write some code
