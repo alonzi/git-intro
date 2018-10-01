@@ -14,7 +14,7 @@ uva library workshop on introduction to git and github
 
 * git - version control software
 * github - a for profit company owned by microsoft
-* repository - a record of all changes to all specified files (aka repo)
+* repository - a record of all changes to specified files (aka repo)
 * fork - a repo and a pointer to the repo it deviates from
 
 ## Second, our goals
@@ -23,9 +23,11 @@ uva library workshop on introduction to git and github
 2. Become comfortable with git/github
 3. Know how to get help
 
-## Getting Python (this will take some time)
-* [Windows](https://www.anaconda.com/download/#windows)
-* [Mac](https://www.anaconda.com/download/#macos)
+## Getting Git
+* if on mac/linux you probably already have git
+  * go to the terminal and type git
+  * if it says: *-bash: git: No such file or directory*
+* goto https://git-scm.com/ and download
 
 * terminology time
   * programming langugage vs software distribution
