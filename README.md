@@ -118,4 +118,6 @@ uva library workshop on introduction to git and github
 2. Do the version control in github
 3. Ask a friend to review it
 
+Plus some stuff
+
 ##### This repo contains materials from [this repo](https://github.com/UVA-DSI/2018-bootcamp/edit/master/intro-general-tools/Readme.md)
