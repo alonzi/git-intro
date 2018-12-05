@@ -113,6 +113,11 @@ uva library workshop on introduction to git and github
 
 ## Helpful Links - https://github.com/alonzi/git-intro/blob/master/helpful_links.md
 
+## How to compare revisions
+* use the following URL with two commit hashes
+* https://github.com/$USER/$REPO/compare/$REV_A...$REV_B
+* eg: https://github.com/alonzi/feynman/compare/b08a2a61bb96ccfea3127a92a8c356df3f3b6f0e...master
+
 # Ways to Practice
 1. Write some code
 2. Do the version control in github
