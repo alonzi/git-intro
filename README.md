@@ -125,4 +125,3 @@ uva library workshop on introduction to git and github
 
 Plus some stuff
 
-##### This repo contains materials from [this repo](https://github.com/UVA-DSI/2018-bootcamp/edit/master/intro-general-tools/Readme.md)
