@@ -122,6 +122,3 @@ uva library workshop on introduction to git and github
 1. Write some code
 2. Do the version control in github
 3. Ask a friend to review it
-
-Plus some stuff
-
