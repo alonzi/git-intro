@@ -1,16 +1,15 @@
 # git-intro
-uva library workshop on introduction to git and github
+uva library workshop on introduction to git and GitHub/GitLab
 
-# https://github.com/alonzi/git-intro
+# https://github.com/rjp0i/git-intro
 
 ## Who am I?
-* [Senior Research Data Scientist with the Data Science Institute and UVA Library](https://dsi.virginia.edu/people/peter-alonzi)
-* I like to be interrupted with questions! Please jump right in.
+* [Associate Director, Research Data Services, UVA Library]
+* 
 
 ## Welcome to the UVA Library
 * [Research Data Services](https://data.library.virginia.edu/)
 * [Workshop Series](https://data.library.virginia.edu/training/)
-  * Data Storage Best Practices (Bill Corey)	Tuesday, 11/6	14:00 – 15:30	Brown 133
 
 ## First, some terms
 
@@ -23,20 +22,19 @@ uva library workshop on introduction to git and github
 
 ## Second, our goals
 
-1. Everyone has git on their computer in working order
-2. Become comfortable with git/github workflows
-3. Know how to get help
+1. Everyone has a GitHub and GitLab account, and has GitHub running on their computer
+2. Create a repository and fork it
+3. Feel comfortable with git/github workflows
+4. Know how to get help
 
 ## Getting Git
 * to play along you will need a github account --> https://github.com/
 
-* if on mac/linux you probably already have git
-  * go to the terminal and type git
-  * if it says: *-bash: git: No such file or directory* (or something similar)
-  * goto https://git-scm.com/ and download
+* if on mac/linux you probably already have git, but we also want GitHub Desktop
+  * goto http://desktop.github.com and download
   
-* if on windows you probably need to get git
-  * goto https://git-scm.com/ and download
+* if on windows, the latest version of GitHub desktop won't include the git "command line tools." We won't need them today, but they are available:
+  * goto https://gitforwindows.org/ and download
 
 ## Outline
 0. Some background
