@@ -15,10 +15,9 @@ uva library workshop on introduction to git and GitHub/GitLab
 
 * git - version control software
 * github - a for profit company owned by microsoft
-* repository - a record of all changes to specified files (aka repo)
-* fork - a repo and a pointer to the repo it deviates from
-
-* [visual](https://github.com/UVA-DSI/2018-bootcamp/blob/master/intro-general-tools/github_terms.png)
+* repository - Basic unit in git: a record of all changes to specified files (aka repo)
+* fork - personal copy of another users repo
+* branch - a parallel version of a repo (main branch is called "master")
 
 ## Second, our goals
 
@@ -48,13 +47,15 @@ uva library workshop on introduction to git and GitHub/GitLab
 * https://xkcd.com/1597/
 
 ### A brief history (according to wiki)
-* Designed by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
-* initial release: 7 April 2005
+#### Version Control
+* CVS (1990s)
+* SVN (2000s)
+* git (2005) courtesy of [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
 * official repo: https://github.com/git/git
-* most recent release (as of writing) 2.19.0 / 10 September 2018; 19 days ago
+* most recent release (as of writing) 2.21.0 / 19 days ago
 
 ### Step 1 - inspect this repo
-* goto: https://github.com/alonzi/git-intro
+* goto: https://github.com/rjp0i/git-intro
 * we are in the github interface, nb:
   1. upper left corner: notebook icon next to alonzi/git-intro  (a repo)
   2. big green button on the right hand side (down a little) says "Clone or Download" (how to get the files)
@@ -100,16 +101,16 @@ uva library workshop on introduction to git and GitHub/GitLab
 
 ### Additional Items
   * Command Line Interface (CLI)
-  * Organizations
+  * Organizations (https://github.com/UVA-RDS)
   * [Webpages](https://pages.github.com/)
   * Branches
 
 ## Getting Help (most important part so we end on it)
-* How to compose a google search
-* What sources are reputable
-* Then email: datascientist@virginia.edu
 
-## Helpful Links - https://github.com/alonzi/git-intro/blob/master/helpful_links.md
+* Please, feel free to email me: ricky@virginia.edu
+* More training available on Lynda.com (for UVA users)
+* Lots of git/GitHub/GitLab resources from the source, as well as free training through a number of github sites
+* StackOverflow is another good resource (e.g., for questions concerning git: https://stackoverflow.com/questions/tagged/git)
 
 ## How to compare revisions
 * use the following URL with two commit hashes
