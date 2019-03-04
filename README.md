@@ -11,20 +11,23 @@ uva library workshop on introduction to git and GitHub/GitLab
 * [Research Data Services](https://data.library.virginia.edu/)
 * [Workshop Series](https://data.library.virginia.edu/training/)
 
-## First, some terms
-
-* git - version control software
-* github - a for profit company owned by microsoft
-* repository - Basic unit in git: a record of all changes to specified files (aka repo)
-* fork - personal copy of another users repo
-* branch - a parallel version of a repo (main branch is called "master")
-
-## Second, our goals
+## First, our goals
 
 1. Everyone has a GitHub and GitLab account, and has GitHub running on their computer
 2. Create a repository and fork it
 3. Feel comfortable with git/github workflows
 4. Know how to get help
+
+## Second, some terms
+
+* git - version control software
+* GitHub - a for profit company recently purchased by Microsoft
+* GitLab - an alternative to GitHub, not owned by Microsoft [why you might want to switch](https://about.gitlab.com/2017/07/19/git-wars-switching-to-gitlab/). "Free software deserves free tools"
+* repository - Basic unit in git: a record of all changes to specified files (aka repo)
+* fork - personal copy of another users repo
+* branch - a parallel version of a repo (main branch is called "master")
+
+[Git Glossary] (https://help.github.com/en/articles/github-glossary)
 
 ## Getting Git
 * to play along you will need a github account --> https://github.com/
@@ -46,13 +49,11 @@ uva library workshop on introduction to git and GitHub/GitLab
 * https://swcarpentry.github.io/2014-06-24-wise-penn/lessons/nelle-git/git.html
 * https://xkcd.com/1597/
 
-### A brief history (according to wiki)
-#### Version Control
+### A brief history of Version Control
 * CVS (1990s)
 * SVN (2000s)
 * git (2005) courtesy of [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
-* official repo: https://github.com/git/git
-* most recent release (as of writing) 2.21.0 / 19 days ago
+
 
 ### Step 1 - inspect this repo
 * goto: https://github.com/rjp0i/git-intro
