@@ -108,7 +108,7 @@ uva library workshop on introduction to git and GitHub/GitLab
 ## Getting Help (most important part so we end on it)
 
 * Please, feel free to email me: ricky@virginia.edu
-* More training available on Lynda.com (for UVA users)
+* More training available on [Lynda.com](https://shib.lynda.com/Shibboleth.sso/InCommon?providerId=urn:mace:incommon:virginia.edu&target=https://shib.lynda.com/InCommon) (for UVA users)
 * Lots of git/GitHub/GitLab resources from the source, as well as free training through a number of github sites
 * StackOverflow is another good resource (e.g., for questions concerning git: https://stackoverflow.com/questions/tagged/git)
 
