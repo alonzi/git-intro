@@ -1,4 +1,4 @@
-# git-intro
+# git-intro!
 uva library workshop on introduction to git and GitHub/GitLab
 
 # https://github.com/rjp0i/git-intro
