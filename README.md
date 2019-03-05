@@ -3,11 +3,11 @@ uva library workshop on introduction to git and GitHub/GitLab
 
 # https://github.com/rjp0i/git-intro
 
-## Who am I?
-* [Associate Director, Research Data Services, UVA Library]
-* 
+## About Me
+* [Associate Director, Research Data Services, UVA Library](http://people.virginia.edu/~rjp0i)
+* I was a research astronomer for 20+ years here at UVA
 
-## Welcome to the UVA Library
+## Data Resources in the UVA Library
 * [Research Data Services](https://data.library.virginia.edu/)
 * [Workshop Series](https://data.library.virginia.edu/training/)
 
@@ -58,14 +58,14 @@ uva library workshop on introduction to git and GitHub/GitLab
 ### Step 1 - inspect this repo
 * goto: https://github.com/rjp0i/git-intro
 * we are in the github interface, nb:
-  1. upper left corner: notebook icon next to alonzi/git-intro  (a repo)
+  1. upper left corner: notebook icon next to rjp0i/git-intro  (a repo)
   2. big green button on the right hand side (down a little) says "Clone or Download" (how to get the files)
   3. list of files (how to browse the files)
-  4. readme.md is shown in all its glory (github automatically shows the readme file, very handy)
+  4. readme.md is rendered as Markdown (github automatically shows the readme file, very handy)
   
 ### Step 2 - create a repo
-* hard to find, upper right hand corner '+' button, pull down: select 'new repository'
-  1. name
+* Not so obvious, but in the upper right hand corner, click the '+' button, pull down: select 'new repository'
+  1. name (this will be the address of the repo...)
   2. description
   3. public v private
   4. initialize with readme (alway say yes)
@@ -106,12 +106,11 @@ uva library workshop on introduction to git and GitHub/GitLab
   * [Webpages](https://pages.github.com/)
   * Branches
 
-## Getting Help (most important part so we end on it)
+## Getting Help
 
 * Please, feel free to email me: ricky@virginia.edu
-* More training available on [Lynda.com](https://shib.lynda.com/Shibboleth.sso/InCommon?providerId=urn:mace:incommon:virginia.edu&target=https://shib.lynda.com/InCommon) (for UVA users)
-* Lots of git/GitHub/GitLab resources from the source, as well as free training through a number of github sites
-* StackOverflow is another good resource (e.g., for questions concerning git: https://stackoverflow.com/questions/tagged/git)
+* Lots of [git](https://git-scm.com/)/[GitHub](https://guides.github.com/)/[GitLab](https://gitlab.com/help?nav_source=navbar) resources from the source, as well as free training through a number of github sites
+* StackOverflow is another good resource (e.g., for questions concerning git (or GitHub/GitLab): https://stackoverflow.com/questions/tagged/git)
 
 ## How to compare revisions
 * use the following URL with two commit hashes
