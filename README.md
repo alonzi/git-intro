@@ -152,9 +152,10 @@ Now we have two branches: master and readme-edits
 * $REV_A and B are the commit hashes for the versions you want to compare. You can get these by examining the Commit history of a file on Github
 
 # Ways to Practice
-1. Write some code
+1. Write some code, or some text
 2. Do the version control in github
-3. Ask a friend to review it
+3. Edit it yourself
+4. Have a friend do some edits as well
 
 # This is an additional edit for practice.
 Hopefully this works 
