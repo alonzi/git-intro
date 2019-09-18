@@ -148,8 +148,8 @@ Now we have two branches: master and readme-edits
 * StackOverflow is another good resource (e.g., for questions concerning git (or GitHub/GitLab): [https://stackoverflow.com/questions/tagged/git]https://stackoverflow.com/questions/tagged/git)
 
 ## How to compare revisions
-* use the following URL with two commit hashes
-* [https://github.com/$USER/$REPO/compare/$REV_A...$REV_B]https://github.com/$USER/$REPO/compare/$REV_A...$REV_B
+* use the following style of URL with two commit hashes (Rev A and Rev B)
+* https://github.com/$USER/$REPO/compare/$REV_A...$REV_B
 * eg: [https://github.com/alonzi/feynman/compare/b08a2a61bb96ccfea3127a92a8c356df3f3b6f0e...master]https://github.com/alonzi/feynman/compare/b08a2a61bb96ccfea3127a92a8c356df3f3b6f0e...master
 
 # Ways to Practice
