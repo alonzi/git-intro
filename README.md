@@ -56,9 +56,10 @@ The examples, data, code and solutions are hosted on a github repo: [https://git
 * SVN (2000s) Centralized (client-server)
 * git (2005) Distributed. Developed by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) for Linux development.
 
-### Hello World
+### Getting Started: Hello World
 * Let's walk through GitHub's [Hello World Guide](https://guides.github.com/activities/hello-world/)
 
+### Using Github
 ### Step 0 - inspect this current repo
 * In a web browser, visit this repo: [https://github.com/rjp0i/git-intro](https://github.com/rjp0i/git-intro)
 * We are in the github interface:
