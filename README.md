@@ -1,8 +1,7 @@
 # git-intro
 UVA Library Workshop on Introduction to Git and GitHub/GitLab. 
 
-This file exists here:
-[https://github.com/rjp0i/git-intro]https://github.com/rjp0i/git-intro (or visit [https://rjp0i.github.io/intro.Fall2019.html]https://rjp0i.github.io/intro.Fall2019.html for a prettified view)
+This file exists [here](https://github.com/rjp0i/git-intro) (or visit [here](https://rjp0i.github.io/intro.Fall2019.html) for a prettified view)
 
 ## About Me
 * Ricky Patterson: I am the [Associate Director, Research Data Services, UVA Library](http://people.virginia.edu/~rjp0i)
@@ -48,8 +47,8 @@ You can look at GitHub's [Git Handbook](https://guides.github.com/introduction/g
 3. Tips on getting help
 
 ## Reference for Git
-The book <em>Computing Skills for Biologists: A Toolbox</em> contains a very useful introduction to Git, with practice data and code. Members of the UVA community can access the book [http://proxy01.its.virginia.edu/login?url=http://www.degruyter.com/isbn/9780691183961]online. 
-The examples, data, code and solutions are hosted on a [https://github.com/CSB-book/CSB]https://github.com/CSB-book/CSB]github repo
+The book <em>Computing Skills for Biologists: A Toolbox</em> contains a very useful introduction to Git, with practice data and code. Members of the UVA community can access the book [online](http://proxy01.its.virginia.edu/login?url=http://www.degruyter.com/isbn/9780691183961). 
+The examples, data, code and solutions are hosted on a [github repo](https://github.com/CSB-book/CSB]https://github.com/CSB-book/CSB)
 
 ### A brief history of Version Control
 * CVS (1990s) Centralized (client-server)
@@ -134,7 +133,7 @@ Now we have two branches: master and readme-edits
   
  
 ### Additional Items
-  * Command Line Interface (CLI) [cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+  * Command Line Interface (CLI) [cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
   * Organizations (such as https://github.com/UVA-RDS)
   * [Webpages](https://pages.github.com/) (such as https://rjp0i.github.io/intro.html)
   * Branches
@@ -142,15 +141,15 @@ Now we have two branches: master and readme-edits
 ## Getting Help
 
 * Please, feel free to email me: ricky@virginia.edu
-* The book <em>Computing Skills for Biologists: A Toolbox</em> contains a very useful introduction to Git, with practice data and code. Members of the UVA community can access the book [http://proxy01.its.virginia.edu/login?url=http://www.degruyter.com/isbn/9780691183961]online. 
-  * The examples, data, code and solutions are hosted on a [https://github.com/CSB-book/CSB]https://github.com/CSB-book/CSB]github repo
+* The book <em>Computing Skills for Biologists: A Toolbox</em> contains a very useful introduction to Git, with practice data and code. Members of the UVA community can access the book [online](http://proxy01.its.virginia.edu/login?url=http://www.degruyter.com/isbn/9780691183961)
+  * The examples, data, code and solutions are hosted on a [github repo](https://github.com/CSB-book/CSB]https://github.com/CSB-book/CSB)
 * Lots of [git](https://git-scm.com/)/[GitHub](https://guides.github.com/)/[GitLab](https://gitlab.com/help?nav_source=navbar) resources from the source, as well as free training through a number of github sites
 * StackOverflow is another good resource (e.g., for questions concerning git (or GitHub/GitLab): [https://stackoverflow.com/questions/tagged/git]https://stackoverflow.com/questions/tagged/git)
 
 ## How to compare revisions
 * use the following style of URL with two commit hashes (Rev A and Rev B)
-* https://github.com/$USER/$REPO/compare/$REV_A...$REV_B
-* eg: [https://github.com/alonzi/feynman/compare/b08a2a61bb96ccfea3127a92a8c356df3f3b6f0e...master]https://github.com/alonzi/feynman/compare/b08a2a61bb96ccfea3127a92a8c356df3f3b6f0e...master
+ * https://github.com/$USER/$REPO/compare/$REV_A...$REV_B
+* $REV_A and B are the commit hashes for the versions you want to compare. You can get these by examining the Commit history of a file on Github
 
 # Ways to Practice
 1. Write some code
