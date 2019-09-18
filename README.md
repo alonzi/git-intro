@@ -1,4 +1,4 @@
-# git-intro!
+# git-intro
 UVA Library Workshop on Introduction to Git and GitHub/GitLab. 
 
 This file exists here:
