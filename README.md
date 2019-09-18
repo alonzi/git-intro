@@ -14,19 +14,19 @@ uva library workshop on introduction to git and GitHub/GitLab
 
 ## First, our goals
 
-1. Everyone has a GitHub and GitLab account, and has GitHub running on their computer
+1. Everyone has a GitHub and GitLab account, and has GitHub Desktop running on their computer
 2. Create a repository and fork it
 3. Feel comfortable with git/github workflows
 4. Know how to get help
 
 ## Second, some terms
 
-* git - version control software
-* GitHub - a for profit company recently purchased by Microsoft
-* GitLab - an alternative to GitHub, not owned by Microsoft ([why you might want to switch](https://about.gitlab.com/2017/07/19/git-wars-switching-to-gitlab/)). "Free software deserves free tools"
-* repository - Basic unit in git: a record of all changes to specified files (aka repo)
-* fork - personal copy of another users repo
-* branch - a parallel version of a repo (main branch is called "master")
+* git - version control software.
+* GitHub - a for profit company recently purchased by Microsoft. It provides cloud-based hosting of repositories.
+* GitLab - an alternative to GitHub, not owned by Microsoft ([why you might want to switch](https://about.gitlab.com/2017/07/19/git-wars-switching-to-gitlab/)). "Free software deserves free tools."
+* repository (repo) - Basic unit in git: a record of all changes to specified files.
+* fork - personal copy of another users repo.
+* branch - a parallel version of a repo (main branch is called "master").
 
 [Git Glossary](https://help.github.com/en/articles/github-glossary)
 
@@ -38,7 +38,7 @@ You can look at GitHub's [Git Handbook](https://guides.github.com/introduction/g
 * if on mac/linux you probably already have git, but we also want GitHub Desktop
   * goto [http://desktop.github.com](http://desktop.github.com) and download
   
-* if on windows, the latest version of GitHub desktop won't include the git "command line tools." We won't need them today, but they are available:
+* if on windows, the latest version of GitHub desktop is fine for today, but it won't include the git "command line tools."  They are available:
   * goto [https://gitforwindows.org/](https://gitforwindows.org/) and download
 
 ## Outline
@@ -47,10 +47,14 @@ You can look at GitHub's [Git Handbook](https://guides.github.com/introduction/g
 2. Look at the GitHub Desktop interface
 3. Tips on getting help
 
+## Reference
+The book <em>Computing Skills for Biologists: A Toolbox</em> contains a very useful introduction to Git, with practice data and code. Members of the UVA community can access the book [http://proxy01.its.virginia.edu/login?url=http://www.degruyter.com/isbn/9780691183961]online. 
+The examples, data, code and solutions are hosted on a github repo: [https://github.com/CSB-book/CSB]https://github.com/CSB-book/CSB
+
 ### A brief history of Version Control
-* CVS (1990s)
-* SVN (2000s)
-* git (2005) courtesy of [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
+* CVS (1990s) Centralized (client-server)
+* SVN (2000s) Centralized (client-server)
+* git (2005) Distributed. Developed by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) for Linux development.
 
 ### Hello World
 * Let's look at GitHub's [Hello World Guide](https://guides.github.com/activities/hello-world/)
