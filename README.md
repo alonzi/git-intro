@@ -1,3 +1,6 @@
+Added changes to readme
+
+
 # git-intro
 uva library workshop on introduction to git and github
 
